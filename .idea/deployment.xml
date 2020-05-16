@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="louiswoo@119.3.233.56:22" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="louiswoo@119.3.233.56:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/wechat_flask" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="louiswoo@192.168.86.128:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
